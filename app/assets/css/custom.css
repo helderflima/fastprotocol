@@ -1,0 +1,61 @@
+.checkboxativo {
+ 
+ 	margin-top: 2cm;
+
+}
+
+
+.text-center {
+
+	text-align: center;
+	
+}
+
+.asterisco {
+
+	color: red;
+}
+
+.well {
+
+
+	background-color: white;
+
+}
+
+
+.linhaMalote {
+
+	border-color: red;
+
+}
+
+
+.itemCod{
+    width: 40px;
+}
+
+
+.thDesc{
+
+	width: 330px;
+
+
+}
+
+.thIdent{
+
+	width: 330px;
+}
+
+.thStatus{
+
+	width: 10px;
+
+}
+
+.botao {
+
+	width: 90px;
+
+}
